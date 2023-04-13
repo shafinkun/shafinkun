@@ -1,5 +1,5 @@
-<h1 align="left">Hello World!👋</h1>
-<h2 align="left">I'm S.H. Shafin Ahmed, passionate for Software Engineering from Bangladesh.</h3>
+<h1 align="center">Hello World!👋</h1>
+<h3 align="left">I'm S.H. Shafin Ahmed, passionate for Software Engineering from Bangladesh.</h3>
 
 - 🌱 I’m currently learning **C++**
 
