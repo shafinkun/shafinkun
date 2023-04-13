@@ -1,5 +1,5 @@
-<h1 align="center">Hello World!👋</h1>
-<h3 align="center">I'm S.H. Shafin Ahmed, passionate for Software Engineering from Bangladesh.</h3>
+<h1 align="left">Hello World!👋</h1>
+<h2 align="left">I'm S.H. Shafin Ahmed, passionate for Software Engineering from Bangladesh.</h3>
 
 - 🌱 I’m currently learning **C++**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **allmylinks.com/hasnatshafin01**
 
-- ⚡ Fun fact **I'm both nigh owl and early bird**
+- ⚡ Fun fact **I'm both night owl and early bird**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
