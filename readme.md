@@ -1,4 +1,10 @@
-<h1 align="center">Hello World!👋</h1>
+<h1 align="center">Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=hasnatshafin01&style=flat-square&color=blue" alt=""/>
+</div>
 <h3 align="left">I'm S.H. Shafin Ahmed, passionate for Software Engineering from Bangladesh.</h3>
 
 - 🌱 I’m currently learning **C++**
@@ -17,3 +23,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+---
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnatshafin01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnatshafin01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
