@@ -28,6 +28,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasnatshafin01&theme=dark)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnatshafin01)](https://github.com/anuraghazra/github-readme-stats)
+![Shafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnatshafin01&show_icons=true&theme=highcontrast)
 
-[![Shafin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hasnatshafin01)](https://github.com/anuraghazra/github-readme-stats)
+[![Shafin's Github stats](https://github-readme-stats.vercel.app/api/wakatime?username=hasnatshafin01&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
