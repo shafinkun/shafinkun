@@ -2,7 +2,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<div id="badges">
+<div id="badges" align="center"><a href="https://wakatime.com/@1cfe34f4-b237-432f-82e8-5226dad233a7"><img src="https://wakatime.com/badge/user/1cfe34f4-b237-432f-82e8-5226dad233a7.svg" alt="Total time coded since Feb 25 2023" /></a></div>
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=hasnatshafin01&style=flat-square&color=blue" alt=""/>
 </div>
 <h3 align="left">I'm S.H. Shafin Ahmed, passionate for Software Engineering from Bangladesh.</h3>
