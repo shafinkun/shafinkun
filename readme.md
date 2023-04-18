@@ -32,6 +32,3 @@
 ![Shafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnatshafin01&show_icons=true&theme=highcontrast)
 
 [![Shafin's Github stats](https://github-readme-stats.vercel.app/api/wakatime?username=hasnatshafin01&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![wakatime](https://wakatime.com/badge/user/1cfe34f4-b237-432f-82e8-5226dad233a7.svg)](https://wakatime.com/@1cfe34f4-b237-432f-82e8-5226dad233a7)
