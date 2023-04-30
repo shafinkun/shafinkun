@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
 </div>
 <div id="badges" align="center"><a href="https://wakatime.com/@1cfe34f4-b237-432f-82e8-5226dad233a7"><img src="https://wakatime.com/badge/user/1cfe34f4-b237-432f-82e8-5226dad233a7.svg" alt="Total time coded since Feb 25 2023" /></a></div>
 <div id="badges" align="center">
