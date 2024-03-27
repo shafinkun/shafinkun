@@ -8,7 +8,7 @@
 </div>
 <h3 align="left">I'm S.H. Shafin Ahmed, passionate for Software Engineering from Bangladesh.</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **github**
 
