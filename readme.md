@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-- 📫 How to reach me **[allmylinks.com/shafinkun](https://shafinkun.carrd.co/)**
+- 📫 How to reach me **shafinkun.carrd.co**
 
 - ⚡ Fun fact **I'm both a night owl and an early bird**
 
