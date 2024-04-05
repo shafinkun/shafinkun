@@ -6,19 +6,19 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=shafinkun&style=flat-square&color=blue" alt=""/>
 </div>
-<h3 align="left">I'm S.H. Shafin Ahmed, passionate for Software Engineering from Bangladesh.</h3>
+<h3 align="left">I'm S.H. Shafin Ahmed, passionate about Software Engineering from Bangladesh.</h3>
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **github**
+- 👯 I’m looking to collaborate on **GitHub**
 
 - 📫 How to reach me **allmylinks.com/hasnatshafin01**
 
-- ⚡ Fun fact **I'm both night owl and early bird**
+- ⚡ Fun fact **I'm both a night owl and an early bird**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hasnatshafin01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shafinkun" height="30" width="40" /></a>
+<a href="https://twitter.com/shafinkun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shafinkun" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shafinkun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafinkun" height="30" width="40" /></a>
 </p>
 
